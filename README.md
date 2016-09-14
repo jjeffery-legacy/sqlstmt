@@ -8,8 +8,7 @@ Package `sqlstmt` provides assistance in creating SQL statements.
 [![Coverage Status](https://coveralls.io/repos/github/jjeffery/sqlstmt/badge.svg?branch=master)](https://coveralls.io/github/jjeffery/sqlstmt?branch=master)
 [![GoReportCard](https://goreportcard.com/badge/github.com/jjeffery/sqlstmt)](https://goreportcard.com/report/github.com/jjeffery/sqlstmt)
 
-**NOTE:** This package is still a work in progress. The API is reasonably stable, but there is 
-no backwards compatibility guarantee at this time.
+**NOTE:** This package is an earlier version of the [sqlrow](https://github.com/jjeffery/sqlrow) package. It will be deleted at some point.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
